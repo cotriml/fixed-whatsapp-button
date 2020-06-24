@@ -13,7 +13,7 @@ For WhatsApp config:
 - whatsAppMessage
   
 For image config: 
-- src
+- src (path or url to an image)
 - width
 - height
 - position (left or right)
