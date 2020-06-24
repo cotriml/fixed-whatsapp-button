@@ -1,8 +1,10 @@
 # Fixed WhatsApp Button
 
+##Description
+
 Script made to create a button at the bottom/left or bottom/right side of the screen to redirect the user to WhatsApp chat.
 
-How to configure? 
+##How to configure? 
 
 Just change the string value of the following variables: 
 
