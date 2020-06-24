@@ -6,12 +6,12 @@ How to configure?
 
 Just change the string value of the following variables: 
 
-  For WhatsApp config: 
-    - whatsAppNumber
-    - whatsAppMessage
+For WhatsApp config: 
+- whatsAppNumber
+- whatsAppMessage
   
-  For image config: 
-    - src
-    - width
-    - height
-    - position (left or right)
+For image config: 
+- src
+- width
+- height
+- position (left or right)
