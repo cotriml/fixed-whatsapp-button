@@ -2,11 +2,11 @@
 
 ## Description
 
-Script made to create a button at the bottom/left or bottom/right side of the screen to redirect the user to WhatsApp chat.
+Script made to create a button at the bottom/left or bottom/right side of the screen to redirect the user to a WhatsApp chat conversation.
 
 ## How to configure? 
 
-Just change the string value of the following variables: 
+Change the string value of the following variables: 
 
 For WhatsApp config: 
 - whatsAppNumber
