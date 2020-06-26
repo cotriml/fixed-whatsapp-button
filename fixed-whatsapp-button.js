@@ -5,7 +5,7 @@ var whatsAppMessage = 'Hello, would you help me?';
 
 /* ---------- IMG CONFIG ---------- */
 
-var src = "https://logodownload.org/wp-content/uploads/2015/04/whatsapp-logo-1.png"; //Path to the Image
+var src = "https://logodownload.org/wp-content/uploads/2015/04/whatsapp-logo-1.png";  //URL or path to the Image
 var width = "90";
 var height = "90";
 var position = 'left'; //left or right
