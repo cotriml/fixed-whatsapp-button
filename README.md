@@ -19,4 +19,4 @@ For image config:
 - position (left or right)
 
 
-![](my-website.example.png)
+![Example](my-website.example.png)
