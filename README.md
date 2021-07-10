@@ -17,3 +17,6 @@ For image config:
 - width
 - height
 - position (left or right)
+
+
+![](./my-website.example.png)
